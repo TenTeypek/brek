@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4cd3802fa2a7b737",
+        "id": "edabae41e560e2fd",
         "type": "tabs",
         "children": [
           {
-            "id": "0cae6c69360a4728",
+            "id": "16638cc918828a18",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "router on a stick.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "router on a stick.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "router on a stick.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "router on a stick.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,10 +147,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0cae6c69360a4728",
+  "active": "16638cc918828a18",
   "lastOpenFiles": [
-    "POS/HSRP.md",
     "router on a stick.md",
+    "POS/HSRP.md",
     "ruter on a sticc.md",
     "POS",
     "Welcome.md"
