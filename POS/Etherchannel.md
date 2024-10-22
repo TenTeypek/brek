@@ -1,5 +1,4 @@
-![[VLAN#Založení vlan]]
-![[VLAN#Přidání access switchportu do vlany]]
+[[VLAN]]
 # Přidání interfaců do channel-group
 ```
 interface range <interface> <range>
