@@ -1,10 +1,4 @@
-Nejdřiv na oba routery ipiny:
-```
-interface <interface>
-ip address <ip> <maska>
-no shutdown
-exit
-```
+Na oba routery ipiny.
 Na obou routerech:
 ```
 interface <interface>

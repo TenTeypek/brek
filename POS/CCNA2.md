@@ -1,3 +1,4 @@
+Nejdřív popsat co kde kam - ipiny, vlany, atd
 # VLANy
 ![[VLAN]]
 # Port security
@@ -7,3 +8,6 @@
 ![[Etherchannel]]
 # DHCP
 ![[DHCP]]
+# HSRP
+Standby nastavujeme na interface vlan/subinterface
+![[HSRP]]
