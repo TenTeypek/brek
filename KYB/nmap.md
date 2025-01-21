@@ -8,8 +8,10 @@ scanuje 1000 nejpoužívanějších portů TCP
 TCP relace: `syn` -> `syn`, `ack` -> `ack`
 ## Porty
 `1-1023` - well known
-	`80` - http
-	`443` - https
+	`21` - FTP
+	`22` - SSH
+	`80` - HTTP
+	`443` - HTTPS
 	todo: dns port
 `1024-49151` - registrované
 `49152-65635` - dynamické
