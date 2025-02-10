@@ -14,6 +14,7 @@ transport input ssh
 exit
 crypto key generate rsa
 1024
+ip ssh version 2
 interface vlan 1
 ip address 192.168.1.10 255.255.255.0
 no shutdown
