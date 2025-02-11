@@ -20,5 +20,5 @@ transport input ssh
 exit
 crypto key generate rsa
 1024
-exit
+ip ssh version 2
 ```
