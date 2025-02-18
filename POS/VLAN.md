@@ -1,6 +1,9 @@
  > [!info]
 > Vlany by měly být založeny ve všech zařízeních kde budou protékat
 
+> [!info]
+> Nefunguje L3 switch? Nezapomeň na `ip routing`
+
 > [!caution]
 > Na router se vlan nezakládá - používáme [[#Subinterface pro vlan na router|subinterface]]
 # Založení vlan
