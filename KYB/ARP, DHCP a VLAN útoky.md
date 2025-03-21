@@ -8,9 +8,20 @@ Můžu využít např. na změnu DNS
 Vyžeru všechny IP na původním DHCP serveru, aby se klienti připojili na můj server
 ## DHCP Snooping
 Obrana proti [[#DHCP Spoofing]]
+```
+ip dhcp snooping
+interface <trustovane-zarizeni>
+ip dhcp snooping trust
+```
 
 # VLAN Hopping
 TODO: doplň
 
 # VLAN Double tagging
 TODO: doplň
+
+
+
+```
+switchport trunk native vlan 666
+```

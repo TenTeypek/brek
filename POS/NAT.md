@@ -42,3 +42,5 @@ exit
 access-list 1 permit <vnitrni-id> 0.0.0.255
 ip nat inside source list 1 interface <vnejsi> overload
 ```
+
+`access-list 1 permit any` - povolí vše co přijde do NATky

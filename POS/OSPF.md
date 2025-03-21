@@ -12,3 +12,6 @@ router-id 2.2.2.2
 network <id-druhe-site> 0.0.0.255 area 0
 network <id-site-mezi> 0.0.0.255 area 0
 ```
+
+`default-information originate` - distrubuuje defaultní routu (do config-router)
+`ip route 0.0.0.0 0.0.0.0 <ip-routeru-isp>` - všechno co nezná pujde na router ISP
