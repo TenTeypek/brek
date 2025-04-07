@@ -1,4 +1,4 @@
-na interface:
+Na interface:
 ```
 switchport port-security
 switchport port-security mac-address { sticky | <mac-adress> }

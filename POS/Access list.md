@@ -16,7 +16,7 @@ access-list 101 permit tcp any host 192.168.20.254 eq www
 access-list 101 deny ip any host 192.168.20254
 access-list 101 permit ip any any
 ```
-zakáže přístup k zařízení přes všechny porty kromě http (80)
+Zakáže přístup k zařízení přes všechny porty kromě http (80)
 
 ## Nastavení access-listu na interface
 Na interface směrem k "zákazníkům" které omezuju (ne k serveru):
