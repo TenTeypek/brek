@@ -1,26 +1,25 @@
-18
-- [x] R&J (dr)
-- [x] Lakomec (dr)
+18\. století
+- [x] 01. Romeo a Julie
+- [x] 02. Lakomec
 
-19
-- [ ] Maj (po)
-- [ ] Dudak
-- [ ] Tyrolske elegie (po)
-- [ ] Diva bara
-- [ ] Marysa
+19\. století
+- [ ] 03. Máj
+- [ ] 04. Strakonický dudák
+- [ ] 05. Tyrolské elegie
+- [ ] 06. Divá bára
+- [ ] 07. Maryša
 
-20
-- [ ] Starec a more (sv)
-- [ ] Na zapadni fronte klid (sv)
-- [ ] Pete a lucie (sv)
-- [ ] Smrt je mym remeslem (sv)
-- [ ] Horalka (sv)
-- [ ] Vyhodme ho z kola ven (sv)
-- [x] Farma zvirat (sv)
-
-- [ ] Kysar (cz)
-- [x] Bila nemoc (cz)
-- [ ] Valka s mloky (cz)
-- [ ] Ostre sledovane vlaky (cz)
-- [ ] Smrt krasnych srncu (cz)
-- [ ] Spalovac mrtvol (cz)
+20\. století
+- [ ] 08. Stařec a moře
+- [ ] 09. Na západní frontě klid
+- [ ] 10. Petr a Lucie
+- [ ] 11. Smrt je mým řemeslem
+- [ ] 12. Horalka
+- [ ] 13. Vyhoďme ho z kola ven
+- [x] [[14. Farma zvířat]]
+- [ ] 15. Krysař
+- [x] 16. Bílá nemoc
+- [ ] 17. Válka s mloky
+- [ ] 18. Ostře sledované vlaky
+- [ ] 19. Smrt krásných srnců
+- [ ] 20. Spalovač mrtvol

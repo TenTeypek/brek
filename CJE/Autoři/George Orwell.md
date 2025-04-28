@@ -1,0 +1,3 @@
+- Vlastním jménem Eric Arthur Blair
+- Díla: 1984, [[14. Farma zvířat|Farma zvířat]]
+- 
