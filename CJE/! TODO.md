@@ -1,0 +1,6 @@
+- [ ] dopsat [[14. Farma zvířat]]
+- [x] dopsat [[16. Bílá nemoc]]
+- [ ] dopsat [[Karel Čapek]]
+- [ ] přepiš sem ze sešitu všechno co jsme dělali co máš v seznamu
+- [ ] přepiš to co máš od Temíka
+- [ ] přečti to co jsme nedělali vůbec

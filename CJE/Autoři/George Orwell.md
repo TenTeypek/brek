@@ -1,3 +1,9 @@
+- 1903 Indie - 1950 Londýn
 - Vlastním jménem Eric Arthur Blair
-- Díla: 1984, [[14. Farma zvířat|Farma zvířat]]
-- 
+- Novinář, esejista, spisovatel
+- Kritik totalitarismu, fanoušek demokratického socialismu
+- Studoval na Eton College
+- Pracoval v BBC
+- U nás dlouho zakázán
+- Díla: [[14. Farma zvířat|Farma zvířat]], 1984
+- Další autoři: Arthur C. Clarke (Vesmírná odysea), [[Karel Čapek]] (R.U.R.), Samuel Beckett (Čekání na Godota)

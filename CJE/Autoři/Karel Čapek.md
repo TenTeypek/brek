@@ -1,0 +1,4 @@
+- 1890 Malé Svatoňovice - 1938 Praha
+- Mladší bratr Josefa Čapka
+- Pátečník
+- Díla: Továrna na absolutno, Krakatit, [[16. Bílá nemoc|Bílá nemoc]], Válka s mloky, R.U.R.

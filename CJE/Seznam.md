@@ -18,7 +18,7 @@
 - [ ] 13. Vyhoďme ho z kola ven
 - [x] [[14. Farma zvířat]]
 - [ ] 15. Krysař
-- [x] 16. Bílá nemoc
+- [x] [[16. Bílá nemoc]]
 - [ ] 17. Válka s mloky
 - [ ] 18. Ostře sledované vlaky
 - [ ] 19. Smrt krásných srnců
