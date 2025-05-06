@@ -17,7 +17,7 @@
 - [ ] 12\. Horalka
 - [ ] 13\. Vyhoďme ho z kola ven
 - [x] [[14. Farma zvířat]]
-- [ ] 15\. Krysař
+- [x] 15\. Krysař
 - [x] [[16. Bílá nemoc]]
 - [ ] 17\. Válka s mloky
 - [ ] 18\. Ostře sledované vlaky
