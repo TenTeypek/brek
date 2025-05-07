@@ -1,0 +1,6 @@
+- 1877 - 1931
+- Básník, prozaik, dramatik, publicista, politik
+- V mládí anarchistický buřič, později nacionalista
+- Novinář - Národní listy
+- Díla: [[15. Krysař|Krysař]], Zmoudření Dona Quiota, Devátá vlna
+- Další autoři: Fráňa Šrámek, Jaroslav Hašek, Petr Bezruč
