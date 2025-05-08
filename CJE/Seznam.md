@@ -20,6 +20,6 @@
 - [x] [[15. Krysař]]
 - [x] [[16. Bílá nemoc]]
 - [ ] 17\. Válka s mloky
-- [ ] 18\. Ostře sledované vlaky
+- [x] [[18. Ostře sledované vlaky]]
 - [ ] 19\. Smrt krásných srnců
 - [ ] 20\. Spalovač mrtvol

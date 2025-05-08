@@ -1,0 +1,8 @@
+- 1914 - 1997
+- Prozaik
+- Nymburské gymnázium
+- Mnoho profesí - promítlo se do díla
+- Pivař
+- Chata v Kersku
+- Díla: [[18. Ostře sledované vlaky|Ostře sledované vlaky]], Postřižiny, Slavnosti sněženek, Obsluhoval jsem anglického krále
+- Další autoři: František Halas, Jan Otčenášek
