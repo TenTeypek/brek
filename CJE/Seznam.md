@@ -5,7 +5,7 @@
 19\. století
 - [ ] 03\. Máj
 - [ ] 04\. Strakonický dudák
-- [ ] 05\. Tyrolské elegie
+- [x] [[05. Tyrolské elegie]]
 - [ ] 06\. Divá bára
 - [ ] 07\. Maryša
 
