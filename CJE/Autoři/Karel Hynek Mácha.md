@@ -1,0 +1,7 @@
+- 1810 Praha (Malá Strana) - 1836
+- Básník, prozaik
+- Nejvýznamější český představitel romantismu
+- Původně Ignác
+- Zemřel po hašení požáru na choleru
+- Díla: Cikáni, [[03. Máj|Máj]], Obrazy ze života mého
+- Další autoři: Josef Kajetán Tyl, Karel Jaromír Erben, Victor Hugo

@@ -3,7 +3,7 @@
 - [x] 02\. Lakomec
 
 19\. století
-- [ ] 03\. Máj
+- [x] [[03. Máj]]
 - [ ] 04\. Strakonický dudák
 - [x] [[05. Tyrolské elegie]]
 - [ ] 06\. Divá bára
