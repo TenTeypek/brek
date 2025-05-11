@@ -1,0 +1,13 @@
+- 1808 - 1856
+- Dramatik, režisér, herec, překladatel, divadelní kritik, spisovatel, novinář
+- Národní obrození
+- Kajetánské divadlo
+- Spor s [[Karel Hynek Mácha|Máchou]]
+- Kde domov můj
+- Hrál ve Stavovském divadle
+- Kritizován [[Karel Havlíček Borovský|Borovským]]
+- Bach zrušil český soubor Stavovského divadla
+	- Tyl zadlužený, nedokázal živit rodinu
+- Zemřel v bídě na tuberkulózu
+- Díla: [[04. Strakonický dudák|Strakonický dudák]], Fidlovačka aneb Žádný hněv a žádná rvačka
+- Další autoři: Karel Jaromír Erben, [[Karel Hynek Mácha]]
