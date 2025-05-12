@@ -6,7 +6,7 @@
 - [x] [[03. Máj]]
 - [x] [[04. Strakonický dudák]]
 - [x] [[05. Tyrolské elegie]]
-- [ ] 06\. Divá bára
+- [x] [[06. Divá bára]]
 - [ ] 07\. Maryša
 
 20\. století

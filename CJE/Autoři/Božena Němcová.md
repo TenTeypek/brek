@@ -1,0 +1,13 @@
+- 1816 Víděň - 1862 Praha
+- Rozená Barbora Novotná, později Barbora Panklová
+- Spisovatelka, sběratelka
+- Provdala se za Josefa Němce, 4 děti
+- Němec starší, drsný muž, s Boženou si příliš nerozuměl, často ji bil
+- Často se stěhovali
+- Sblížila se Nebeským - milenec, který ji přivedl ke psaní
+- Finanční nouze a zdravotní stav ji donutil vrátit se k Josefovi
+- Umírá v domě U tří líp na tuberkulózu
+- Pohádky, povídky
+- Ženská tématika, venkovská tématika
+- Díla: Babička, [[06. Divá Bára|Divá Bára]], Národní báchorky a pověsti, V zámku a podzámčí
+- Další autoři: [[Karel Havlíček Borovský]], [[Josef Kajetán Tyl]], Karel Jaromír Erben, Charles Dickens, Honoré de Balzac

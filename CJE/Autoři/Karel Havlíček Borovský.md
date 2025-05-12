@@ -5,4 +5,4 @@
 - Deportován do tyrolského Brixenu
 - Zemřel na tuberkulózu po návštěvě rodiny
 - Díla: [[05. Tyrolské elegie|Tyrolské elegie]], Král Lávra, Křest svatého Vladimíra, Obrazy z Rus, Epigramy
-- Další autoři: Josef Kajetán Tyl, Karel Jaromír Erben, Božena Němcová
+- Další autoři: Josef Kajetán Tyl, Karel Jaromír Erben, [[Božena Němcová]]
