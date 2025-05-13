@@ -10,7 +10,7 @@
 - [ ] 07\. Maryša
 
 20\. století
-- [ ] 08\. Stařec a moře
+- [x] [[08. Stařec a moře]]
 - [ ] 09\. Na západní frontě klid
 - [ ] 10\. Petr a Lucie
 - [ ] 11\. Smrt je mým řemeslem

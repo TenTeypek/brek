@@ -1,0 +1,6 @@
+- 1899 - 1961
+- Americký spisovatel, reportér
+- Ztracená generace
+- Nobelova cena za literaturu 1954
+- Díla: [[08. Stařec a moře|Stařec a moře]], Sbohem armádo, Komu zvoní hrana, Pátá kolona
+- Další autoři: Erich Maria Remarque, Romain Rolland, John Steinbeck
