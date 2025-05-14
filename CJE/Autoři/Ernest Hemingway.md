@@ -3,4 +3,4 @@
 - Ztracená generace
 - Nobelova cena za literaturu 1954
 - Díla: [[08. Stařec a moře|Stařec a moře]], Sbohem armádo, Komu zvoní hrana, Pátá kolona
-- Další autoři: Erich Maria Remarque, Romain Rolland, John Steinbeck
+- Další autoři: Erich Maria Remarque, [[Romain Rolland]], John Steinbeck

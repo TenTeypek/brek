@@ -12,7 +12,7 @@
 20\. století
 - [x] [[08. Stařec a moře]]
 - [ ] 09\. Na západní frontě klid
-- [ ] 10\. Petr a Lucie
+- [x] [[10. Petr a Lucie]]
 - [ ] 11\. Smrt je mým řemeslem
 - [ ] 12\. Horalka
 - [ ] 13\. Vyhoďme ho z kola ven
