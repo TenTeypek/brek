@@ -21,5 +21,5 @@
 - [x] [[16. Bílá nemoc]]
 - [ ] 17\. Válka s mloky
 - [x] [[18. Ostře sledované vlaky]]
-- [ ] 19\. Smrt krásných srnců
+- [x] [[19. Smrt krásných srnců]]
 - [ ] 20\. Spalovač mrtvol

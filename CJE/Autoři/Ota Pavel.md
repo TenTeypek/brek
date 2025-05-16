@@ -1,0 +1,13 @@
+- 1930 - 1973
+- Vlastním jménem Otto Popper
+- Český rozaik, novinář, sportovní reportér
+- Otec Leo Popper - židovský původ
+- Narozen v Praze, v 6 letech se rodina přestěhovala do Buštěhradu
+- Oba bratři i otec za války v koncentráku - všichni přežili
+- Zajímal se o sport - trénoval hokejovou Spartu
+- Jako novinář mohl cestovat
+- 1964 maniodepresivní psychóza - na OH zapálil statek
+- Pohřben na židovském hřbitově v Olšanech
+- Sportovní tematika, autobiografické vzpomínkové prózy
+- Díla: Dukla mezi mrakodrapy, Plná bedna šampaňského, Jak jsem potkal ryby, [[19. Smrt krásných srnců|Smrt krásných srnců]]
+- Další autoři: [[Bohumil Hrabal]], Vladimír Páral, Arnošt Lustig, Ladislav Fuks, Jiří Weil
