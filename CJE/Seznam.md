@@ -15,7 +15,7 @@
 - [x] [[10. Petr a Lucie]]
 - [ ] 11\. Smrt je mým řemeslem
 - [ ] 12\. Horalka
-- [ ] 13\. Vyhoďme ho z kola ven
+- [x] [[13. Vyhoďme ho z kola ven]]
 - [x] [[14. Farma zvířat]]
 - [x] [[15. Krysař]]
 - [x] [[16. Bílá nemoc]]

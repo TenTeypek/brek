@@ -1,0 +1,10 @@
+- 1935 - 2001
+- Americký spisovatel
+- Postmoderní literatura
+- Noční hlídač na psychiatrii
+- Vyzkoušel mnoho drog jako pokusná osoba při experimentech
+- 1965 obviněn z přechovávání marihuany - utekl do Mexika - po návratu půl rok vězení a pracovní farma
+- Pomalovaný autobus - seznámil se s beatníky Allenem Ginsbergem a Jackem Kerouackem
+- Zemřel po operaci nádoru
+- Díla: [[13. Vyhoďme ho z kola ven|Vyhoďme ho z kola ven]], Tak mě někdy napadá
+- Další autoři: Jack Kerouack, Allen Ginsberg, Charles Bukowski
