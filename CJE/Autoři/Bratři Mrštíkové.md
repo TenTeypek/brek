@@ -1,0 +1,16 @@
+- Alois a Vilém
+- Přelom 19. a 20. století
+- Čeští prozaikové, novináři, dramatici
+- Psali do Národních listů
+- Alois učitel
+- Vilém překladatel
+- Alois přišel s nápadem na vesnický román
+	- V té době populární
+	- Vilém chtěl spíš drama
+	- Dílo Maryša bylo kompromis
+- Vilém zemřel před první světovou válkou - sebevražda
+- Díla:
+	- Společné: [[07. Maryša|Maryša]]
+	- Vilém: Pohádka máje, Santa Lucia
+	- Alois: Nit stříbrná
+- Další autoři: Ladislav Stroupežnický, Alois Jirásek, Émile Zola, Lev Nikolajevič Tolstoj, Charles Dickens

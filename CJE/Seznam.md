@@ -7,7 +7,7 @@
 - [x] [[04. Strakonický dudák]]
 - [x] [[05. Tyrolské elegie]]
 - [x] [[06. Divá bára]]
-- [ ] 07\. Maryša
+- [x] [[07. Maryša]]
 
 20\. století
 - [x] [[08. Stařec a moře]]
