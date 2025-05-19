@@ -1,4 +1,4 @@
-18\. století
+18\. století a starší
 - [x] 01\. Romeo a Julie
 - [x] 02\. Lakomec
 
