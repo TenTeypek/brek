@@ -1,0 +1,13 @@
+- 1898 Německo - 1970 Švýcarsko
+- Vlastním jménem Erich Paul Remark
+- Německý prozaik, učitel, novinář, dramatik
+- Ztracená generace
+	- Generace co byla v první světové válce
+	- Po válce neschopni se začlenit do společnosti
+- První světová válka 1917 - zanechalo na něm stopu - pacifista
+- Jeho knihy v Německu roku 1933 zakázány a páleny
+- Emigrace do Švýcarska
+- 1939 emigrace do USA - ztráta německého občanství
+- Proti fašismu, nacismu
+- Další autoři: [[George Orwell]], [[Romain Rolland]], Karel Poláček, [[Karel Čapek]]
+- Díla: [[09. Na západní frontě klid|Na západní frontě klid]], Tři kamarádi, Vítězný oblouk, Čas žít čas umírat

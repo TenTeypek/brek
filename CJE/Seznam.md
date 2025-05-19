@@ -11,7 +11,7 @@
 
 20\. století
 - [x] [[08. Stařec a moře]]
-- [ ] 09\. Na západní frontě klid
+- [x] [[09. Na západní frontě klid]]
 - [x] [[10. Petr a Lucie]]
 - [ ] 11\. Smrt je mým řemeslem
 - [ ] 12\. Horalka

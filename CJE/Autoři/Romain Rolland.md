@@ -2,4 +2,4 @@
 - Francouzský prozaik, dramatik
 - Nobelova cena za literaturu 1915
 - Díla: [[10. Petr a Lucie|Petr a Lucie]], Jan Kryštof, Dobrý člověk ještě žije
-- Další autoři: [[Ernest Hemingway]], Erich Maria Remarque, Arnold Zweig, Henri Barbusse
+- Další autoři: [[Ernest Hemingway]], [[Erich Maria Remarque]], Arnold Zweig, Henri Barbusse
