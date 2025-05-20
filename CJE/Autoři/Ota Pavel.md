@@ -10,4 +10,4 @@
 - Pohřben na židovském hřbitově v Olšanech
 - Sportovní tematika, autobiografické vzpomínkové prózy
 - Díla: Dukla mezi mrakodrapy, Plná bedna šampaňského, Jak jsem potkal ryby, [[19. Smrt krásných srnců|Smrt krásných srnců]]
-- Další autoři: [[Bohumil Hrabal]], Vladimír Páral, Arnošt Lustig, Ladislav Fuks, Jiří Weil
+- Další autoři: [[Bohumil Hrabal]], Vladimír Páral, Arnošt Lustig, [[Ladislav Fuks]], Jiří Weil

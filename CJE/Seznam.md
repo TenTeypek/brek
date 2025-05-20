@@ -22,4 +22,4 @@
 - [x] [[17. Válka s mloky]]
 - [x] [[18. Ostře sledované vlaky]]
 - [x] [[19. Smrt krásných srnců]]
-- [ ] 20\. Spalovač mrtvol
+- [x] [[20. Spalovač mrtvol]]

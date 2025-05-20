@@ -1,0 +1,8 @@
+- 1923 - 1994
+- Do literatury vstoupil až v roce 1963
+- Druhá etapa poválečné tvorby
+- Homosexuál -> v jeho díle promítnuto do židů
+- Hlavní postavy jsou slabé, charakterové vady
+- Po normalizaci psal konformisticky
+- Díla: Pan Theodor Mundstock, Variace pro temnou strunu, [[20. Spalovač mrtvol|Spalovač mrtvol]]
+- Další autoři: Arnošt Lustig, [[Ota Pavel]]
