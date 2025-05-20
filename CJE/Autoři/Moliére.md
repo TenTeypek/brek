@@ -1,0 +1,11 @@
+- 1622 - 1673
+- Jean Baptiste Poquelin
+- Francouzský herec, spisovatel, dramatik
+- Z bohaté měšǎnské rodiny
+- Herec proti vůli rodičů - podřadné povolání
+- Kritika lidských zaporných vlastností
+- Zesměšnění společnosti
+- Psal hlavně komedie
+- Zemřel na tuberkulózu po odehrání hry Zdravý a nemocný
+- Díla: Zdravý a nemocný, [[02. Lakomec|Lakomec]], Tartuffe
+- Další autoři: Jan Amos Komenský, Jean de La Fontaine
