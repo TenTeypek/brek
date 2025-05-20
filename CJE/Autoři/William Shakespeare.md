@@ -1,0 +1,15 @@
+- 1564 - 1616
+- Anglický dramatik a básník
+- Stratford nad Avonou
+- Odešel do Londýna
+- Člen spolku mužů Lorda Chamberlaina
+- Divadlo Globe
+- Psal tragédie, komedie i historické hry
+
+- 154 sonetů
+- Jeho tvorba 3 období:
+	- 1\. období - převážně komedie
+	- 2\. období - převážně tragédie, zklamáni ze společnosti
+	- 3\. období - jak prvky komedie, tak i tragédie
+- Díla: Hamlet, [[01. Romeo a Julie|Romeo a Julie]], Sen noci svatojánské
+- Další autoři: Dante Alighieri, Giovanni Boccacio, Miguel de Cervantes y Saavedra, Kryštof Harant z Polžic a Bezdružic
