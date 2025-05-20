@@ -19,7 +19,7 @@
 - [x] [[14. Farma zvířat]]
 - [x] [[15. Krysař]]
 - [x] [[16. Bílá nemoc]]
-- [ ] 17\. Válka s mloky
+- [x] [[17. Válka s mloky]]
 - [x] [[18. Ostře sledované vlaky]]
 - [x] [[19. Smrt krásných srnců]]
 - [ ] 20\. Spalovač mrtvol
