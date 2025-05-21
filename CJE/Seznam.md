@@ -14,7 +14,7 @@
 - [x] [[09. Na západní frontě klid]]
 - [x] [[10. Petr a Lucie]]
 - [ ] 11\. Smrt je mým řemeslem
-- [ ] 12\. Horalka
+- [x] [[12. Horalka]]
 - [x] [[13. Vyhoďme ho z kola ven]]
 - [x] [[14. Farma zvířat]]
 - [x] [[15. Krysař]]

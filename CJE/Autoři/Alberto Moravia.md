@@ -1,0 +1,22 @@
+- 1907 - 1990
+- Vlastním jménem Alberto Pincherle
+- Rodina židovského architekta
+- Tuberkulóza kostí v dětství - léčil 9 let
+	- Mnoho času v Alpách v sanatoriích - měl soukromé učitele
+	- Začal hodně číst -> to ho přimělo začít psát
+- V 20 letech povídky publikoval v římských časopisech
+	- Sám měl 2 časopisy - zkrachovaly
+- Reportáže z cest do zahraničí - cestopisy
+- Kritika fašismu - dílo Lhostejní a Maškarády
+	- Mnoho nepřátel v Itálii
+	- Zákaz práce pro noviny či firmu kvůli židovství
+- 1943 měl být zatčen - byl varován 
+	- S ženou Elsou Morante chtěl utéct do zahraničí
+	- To se mu nepovedlo - musel prožít zimu v horách u známých
+- 1953 Vatikán zakazuje jeho prózy
+- Erotické romány
+- Cesta do Indie - žije s Daciou Maraini
+- Předseda Mezinárodního PEN Klubu
+- 1986 se žení s Carmen Llerou - o 47 let mladší žena než on
+- Díla: Lhostejní, Římanka, [[12. Horalka|Horalka]], Agostino, Pohrdání
+- Další autoři: Robert Merle, Anna Franková, [[Ladislav Fuks]], [[Bohumil Hrabal]], [[Ota Pavel]]
